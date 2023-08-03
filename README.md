@@ -6,7 +6,7 @@ Sachin Kumar, &amp; Sourabh Shastri. (2022). <i>Alzheimer MRI Preprocessed Datas
 
 This repository contains extra resources, code and data supporting the PROM06 course. 
 	• notebooks/: Jupyter notebooks - each notebook with 1 approach (Total 5 experiments)
-	• model/: best model
-  • data/: Hippocampal Segmentation bounding box coordination  
+	• models/: best model
+  	• data/: Hippocampal Segmentation bounding box coordination  
  
 For further information please go to : [[...]].![image](https://github.com/laichiwo/PROM06/assets/53397040/1469ec7d-4101-4e8e-ace8-be52512bd753)
