@@ -9,4 +9,3 @@ This repository contains extra resources, code, and data supporting the PROM06 c
 	• models/: best model (and GAN model for future reference)
   	• data/: Hippocampal Segmentation bounding box coordination  
  
-For further information please go to : [[...]].![image](https://github.com/laichiwo/PROM06/assets/53397040/1469ec7d-4101-4e8e-ace8-be52512bd753)
